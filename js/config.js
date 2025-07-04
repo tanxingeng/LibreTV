@@ -39,10 +39,10 @@ const API_SITES = {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
     },
-    xiaomaomi: {
-        api: 'https://zy.xiaomaomi.cc/api.php/provide/vod',
-        name: '小猫咪资源',
-    },
+    // xiaomaomi: {
+    //     api: 'https://zy.xiaomaomi.cc/api.php/provide/vod',
+    //     name: '小猫咪资源',
+    // },
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
         name: '非凡影视',
@@ -165,61 +165,61 @@ const API_SITES = {
         adult: true
     },
     guangsuziyuan:  {
-      api: 'http://api.guangsuapi.com/api.php/provide/vod/',
-      name: '光速采集'
+        api: 'http://api.guangsuapi.com/api.php/provide/vod/',
+        name: '光速采集'
     },
     r155zycom:  {
-      api: 'https://155api.com/api.php/provide/vod/?ac=list',
-      name: '155直连'
+        api: 'https://155api.com/api.php/provide/vod/?ac=list',
+        name: '155直连'
     },
     naixxzycom:  {
-      api: 'https://naixxzy.com/api.php/provide/vod/?ac=list',
-      name: '奶香香直连'
+        api: 'https://naixxzy.com/api.php/provide/vod/?ac=list',
+        name: '奶香香直连'
     },
     liangzi:  {
-      api: 'https://cj.lziapi.com/api.php/provide/vod',
-      name: '量子'
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        name: '量子'
     },
     dadiapicom:  {
-      api: 'http://dadiapi.com/api.php',
-      name: '成人09'
+        api: 'http://dadiapi.com/api.php',
+        name: '成人09'
     },
     gdlspcom:  {
-      api: 'https://www.gdlsp.com/api/xml.php',
-      name: '成人19'
+        api: 'https://www.gdlsp.com/api/xml.php',
+        name: '成人19'
     },
     msniicom:  {
-      api: 'https://www.msnii.com/api/xml.php',
-      name: '成人20'
+        api: 'https://www.msnii.com/api/xml.php',
+        name: '成人20'
     },
     xrbspcom:  {
-      api: 'https://www.xrbsp.com/api/xml.php',
-      name: '成人21'
+        api: 'https://www.xrbsp.com/api/xml.php',
+        name: '成人21'
     },
     kxgavcom:  {
-      api: 'https://www.kxgav.com/api/xml.php',
-      name: '成人22'
+        api: 'https://www.kxgav.com/api/xml.php',
+        name: '成人22'
     },
     lbapi9com:  {
-      api: 'https://lbapi9.com/api.php/provide/vod/',
-      name: '成人26'
+        api: 'https://lbapi9.com/api.php/provide/vod/',
+        name: '成人26'
     },
     lzzy:  {
-      api: 'http://cj.lziapi.com/api.php/provide/vod',
-      name: '量子资源'
+        api: 'http://cj.lziapi.com/api.php/provide/vod',
+        name: '量子资源'
     },
     zycjliangzi:  {
-      api: 'https://cj.lziapi.com/api.php/provide/vod/at/xml',
-      name: '量子影视'
+        api: 'https://cj.lziapi.com/api.php/provide/vod/at/xml',
+        name: '量子影视'
     },
     cjzyjisu:  {
-      api: 'https://jszyapi.com/api.php/provide/vod/from/jsm3u8',
-      name: '极速带草'
+        api: 'https://jszyapi.com/api.php/provide/vod/from/jsm3u8',
+        name: '极速带草'
     },
     taopian:  {
-      api: 'https://taopianapi.com/cjapi/mc/vod/json.html',
-      name: '淘片采集'
-    }
+        api: 'https://taopianapi.com/cjapi/mc/vod/json.html',
+        name: '淘片采集'
+    },
     // 下面是资源失效率高的API源，不建议使用
     // subo: {
     //     api: 'https://subocaiji.com/api.php/provide/vod',
